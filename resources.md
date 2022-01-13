@@ -2,9 +2,8 @@
 layout: default
 title: Resources - CS4102 Algorithms - Spring 2022 
 ---
-# CS4102 Algorithms - Spring 2022
 
-## Resources
+# Resources
 
 The topics we will cover are difficult to master.  Below are resources to help with foundational concepts, including proof techniques and additional practice problems.
 

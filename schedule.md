@@ -3,6 +3,8 @@ layout: default
 title: Schedule - CS4102 Algorithms - Spring 2022 
 ---
 
+# Course Schedule
+
 This is a tentative schedule of topics addressed.  As we go through the semester, we will add homework dates and adjust topics slightly as needed.
 
 | Date    | Topic                                    | Slides/Notes | Readings | Homework |
