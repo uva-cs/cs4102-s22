@@ -1,0 +1,16 @@
+---
+layout: course-shared 
+title: Schedule - CS4102 Algorithms - Spring 2022 
+---
+
+This is a tentative schedule of topics addressed.  As we go through the semester, we will add homework dates and adjust topics slightly as needed.
+
+| Date    | Topic                                    | Slides/Notes | Readings | Homework |
+| ------- | ------                                   | -----        | ------   | -------  |
+|         | **Unit A**                               |              |          |          |
+| Jan 20  | Introduction                             |              |          |          |
+| Jan 25  | Asymptotic Notation, Proofs              |              | Ch 3, 4  |          |
+| Jan 27  | Recurrence Relations, Divide and Conquer |              |          |          |
+| Feb 1   | Recurrence Relations                     |              |          |          |
+| Feb 3   | Divide and Conquer Examples              |              |          |          |
+
