@@ -1,5 +1,5 @@
 ---
-layout: course-shared 
+layout: default
 title: Schedule - CS4102 Algorithms - Spring 2022 
 ---
 

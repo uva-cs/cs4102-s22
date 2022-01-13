@@ -1,5 +1,5 @@
 ---
-layout: course-shared 
+layout: default
 title: Resources - CS4102 Algorithms - Spring 2022 
 ---
 # CS4102 Algorithms - Spring 2022
