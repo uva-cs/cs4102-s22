@@ -73,6 +73,58 @@ We will use the standard grading scheme for this course.
 | F         | 0               |
 
 
+
+### Assignments and Exams
+
+The course will be divided into four units, and for each there will be four items that together will count for your grade. Each unit's items will count for 25% of your final grade. 
+
+* An exam for that unit:  13% of your final grade
+* Basic homework exercises (one or two) for that unit: 2% of your final grade
+* Advanced homework exercises for that unit: 5% of your final grade
+* A programming assignment for that unit:  5% of your final grade
+
+Thus overall, for all four units, exams are worth 52% of your final grade, basic homeworks worth 8% of your final grade, advanced homeworks worth 20% of your final grade, and program assignments work 20% of your final grade.
+
+Each item listed above will earn a numeric score from 0-100, and these will be combined to give you an overall course score. That score will map to a letter grade as shown elsewhere in this syllabus.
+
+Here are more details about each of these:
+
+* Exams:   These will given in-person in your assigned lecture section's meeting time. For the first three units, you will have a chance to re-take the exam to demonstrate you have learned the material better. The re-take opportunity for Unit A will be a few weeks after the first attempt.  For Units B and C, the re-take opportunity will be during the final exam period.  The one and only exam attempt for Unit D will be during the final exam period. If you re-take an exam, there is no penalty, and your highest of the two scores will be counted. The first-attempt for the exams for Units A, B and C will be given about one week after lectures on those topics end.
+
+* Basic Homework: The goal of basic homework is to reinforce fundamental topics and prepare you for the exams. These will be a number of relatively short questions, none harder or longer than something we might ask on an exam. They will be due shortly before the exam for that unit, and solutions will be released at that time. (Therefore late submissions for basic homework won't be accepted.) For most units there will be two problems sets of basic homework so that students can work problems as soon as they've seen the lectures on the topics.
+
+* Advanced Homework: These will be 2 or 3 more challenging problems per unit, problems that would be too long for an exam and that require more time and thought. They will not be due before the first exam for a unit.
+
+* Programming Assignments: Each unit will have a programming assignment that explores one or more topics for that unit. These will be submitted to GradeScope and run against test cases to determine your score. They will not be due before the first exam for a unit.
+
+Here is information about how the assignments will be graded:
+
+* Basic Homework: Three scores are possible:  Reasonably Successful (100), Partially Successful (83), Flawed or Incomplete (0). Graders will review your assignments quickly to determine these scores. You may re-submit up until the deadline. Solutions will be released after the deadline and before the exam, so you may not get your score before the exam, and you won't get detailed feedback on your answers.
+
+* Advanced Homework: These will be graded more carefully, and one of the following scores will be assigned: Excellent (100), Reasonably Successful (93), Partially Successful (83), Flawed Attempt (30), No Credit (0).
+
+* Programming Assignments: The possible grades will be the same as for Advanced Homeworks. Grades will primarily be based on passing test-cases, but we may also review your code to make sure you've followed the problem constraints (for example, you actually implemented the algorithm we specified).
+
+Deadlines and policies on possible resubmissions for Advanced Homeworks and Programming Assignments will be announced when those assignments are released.
+
+### Collaboration Policies for Assignments and Exams
+
+* Exams are always individual assignments; collaboration with others is not allowed. Any solutions that share similar text or code will be considered in breach of this
+policy.
+
+* Homeworks and Programming Assignments: You are encouraged to collaborate with up to 4 other students in the course on these, but all work submitted must be your own independently written solution. While you may discuss techniques and collectively solve the problems in your group, you may not share any files or look at each others’ write-up or code. For instance, sharing source code files or Overleaf or Google Docs is not allowed. Likewise, pair programming or sharing the debugging of code are not allowed. Any solutions that share similar text or code will be considered in breach of this policy. You must list the names and computing IDs of all of your collaborators in your submitted files.
+
+We encourage you not to seek published or online solutions for any assignment, since this is not a good way to learn. Studying code online is permitted, but only for getting ideas about how to address a programming solution. Copying or reusing code from an online source
+violates the honor pledge for that homeowrk. You must cite sources of any online code you
+use in this way in a comment in your source file(s).
+
+Any submission which is discovered to be similar to a published solution or one found online will be considered in breach of this policy.
+
+Note that it is a violation of this policy to submit a problem solution that you are unable to explain orally to a member of the course staff, and we reserve the right to spot-check for this requirement and to use tools like moss etc. to detect shared code.
+
+
+
+
 ## Academic Integrity
 
 
