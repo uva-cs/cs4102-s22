@@ -7,7 +7,7 @@ title: Syllabus - Algorithms
 ## Contact Information 
 
 Tom Horton
-- Email: horton_at_virginiae.du 
+- Email: horton_at_virginia.edu
 - Office: Rice 401
 - Office Hours (Zoom-only): tbd 
 
@@ -24,7 +24,7 @@ Robbie Hott
 
 Hott: Tuesday/Thursday 12:30-1:45pm
 - **Zoom** (link available on Collab under Online Meetings) until Feb 4, 2022
-- Rice 130 after Feb 4, 2022
+- MEC 205 after Feb 4, 2022
 
 Horton: Tuesday/Thursday 2:00-3:15pm
 - Nau 101 
@@ -98,9 +98,9 @@ Students can and will be penalized for unprofessional behavior.
 
 ## COVID-19 Policies
 
-In this course, we will diligently follow all University regulations in effect at that time.  I also respectfully ask that we follow some additional safety precautions with regard to COVID-19, since my son is too young to get vaccinated.  (He just turned 1 year old!)  So to protect him and keep us a little extra safe, I will continue to wear a mask when lecturing and ask that you wear a mask as well in the classroom, too.  We will interpret wearing a mask as being considerate and caring of others in this classroom, not that you're sick.  
+In this course, we will diligently follow all University regulations in effect at that time.  I (Prof. Hott) also respectfully ask that we follow some additional safety precautions with regard to COVID-19, since my son is too young to get vaccinated.  (He just turned 1 year old!)  So to protect him and keep us a little extra safe, I will continue to wear a mask when lecturing and ask that you wear a mask as well in the classroom, too.  **Important:** We will interpret wearing a mask as being considerate and caring of others in this classroom, not that you're sick.  
 
-If you're not feeling well, for all our safety and health, please watch the virtual lecture--whether you might think it's actually a cold or just seasonal allergies.  We will ensure that staying home does not impact your grade compared to being in person, so that you can take the time you need to get better, quarantine, or isolate.
+If you're not feeling well, for all our safety and health, please watch the recorded lecture--whether you might think it's actually a cold or just seasonal allergies.  We will ensure that staying home does not impact your grade compared to being in person, so that you can take the time you need to get better, quarantine, or isolate.
 
 ### COVID-19 Q&A
 
