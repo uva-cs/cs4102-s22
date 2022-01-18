@@ -25,6 +25,7 @@ Robbie Hott
 Hott: Tuesday/Thursday 12:30-1:45pm
 - **Zoom** (link available on Collab under Online Meetings) until Feb 4, 2022
 - Rice 130 after Feb 4, 2022
+
 Horton: Tuesday/Thursday 2:00-3:15pm
 - Nau 101 
 
@@ -167,6 +168,7 @@ Finally, the Center for Diversity in Engineering facilitates free tutoring durin
 Your career development path may take you beyond the confines of UVA. Perhaps you applied for an internship and your interview is taking place in-person across the country. Maybe you submitted an abstract to a national technical conference and you have been asked to present your work. These are not only necessary steps on your path but are also invaluable lessons in and of themselves. We wish to encourage and support you in travel related to your career development. To that end, if you notify us at least one-week in advance of such an event, we will offer you the choice of either:
 1. completing assignments remotely, or
 2. delaying assignment, exam, or quiz dates until at least 48 hours after your return.   
+
 This offer comes with caveats: (1) Extensions will not normally be granted for a team activity when only one member is traveling. (2) The delay will not extend beyond the last day of finals for the semester.
 
 ## Additional Notes
