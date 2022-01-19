@@ -1,3 +1,10 @@
+---
+layout: default
+title: Table Testing - CS4102 Algorithms - Spring 2022 
+---
+
+
+
 CS4102 - Testing Table formatting
 ===============================
 
@@ -10,3 +17,4 @@ CS4102 - Testing Table formatting
 | Oranges       | $2.10         | - cures scurvy     |
 |               |               | - tasty            |
 +---------------+---------------+--------------------+
+
