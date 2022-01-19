@@ -22,6 +22,7 @@ A normal table:
 
 | Date    | Topic                                    | Slides/Notes | Readings | Homework |
 | ------- | ------                                   | -----        | ------   | -------  |
+|         | Testing testing                          |  line 1 <br/> line2     |          |          |
 |         | **Unit A**                               |              |          |          |
 | Jan 20  | Introduction                             |              |          |          |
 | Jan 25  | Asymptotic Notation, Proofs              |              | Ch 3, 4  |          |
