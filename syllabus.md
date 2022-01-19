@@ -9,7 +9,7 @@ title: Syllabus - Algorithms
 Tom Horton
 - Email: horton_at_virginia.edu
 - Office: Rice 401
-- Office Hours (Zoom-only): tbd 
+- Office Hours (in-person): Mon 1:30-2:00 pm; Tue. 10:00-11:30 am; Wed. 3:00-4:00 pm; Thu. 10:00-11:30 am 
 
 Robbie Hott
 - Email: jrhott_at_virginia.edu
@@ -107,31 +107,25 @@ Here is information about how the assignments will be graded:
 
 Deadlines and policies on possible resubmissions for Advanced Homeworks and Programming Assignments will be announced when those assignments are released.
 
-### Collaboration Policies for Assignments and Exams
+## Collaboration Policies for Assignments and Exams
 
 * Exams are always individual assignments; collaboration with others is not allowed. Any solutions that share similar text or code will be considered in breach of this
 policy.
 
 * Homeworks and Programming Assignments: You are encouraged to collaborate with up to 4 other students in the course on these, but all work submitted must be your own independently written solution. While you may discuss techniques and collectively solve the problems in your group, you may not share any files or look at each others’ write-up or code. For instance, sharing source code files or Overleaf or Google Docs is not allowed. Likewise, pair programming or sharing the debugging of code are not allowed. Any solutions that share similar text or code will be considered in breach of this policy. You must list the names and computing IDs of all of your collaborators in your submitted files.
 
-We encourage you not to seek published or online solutions for any assignment, since this is not a good way to learn. Studying code online is permitted, but only for getting ideas about how to address a programming solution. Copying or reusing code from an online source
-violates the honor pledge for that homeowrk. You must cite sources of any online code you
+We encourage you not to seek published or online solutions for any assignment, since this is not a good way to learn. Studying code examples online is permitted, but only for getting ideas about how to address a programming solution. Copying or reusing large portions of code from an online source to solve a significant part of the assignment violates the honor pledge for that homework. You must cite sources of any online code you
 use in this way in a comment in your source file(s).
 
 Any submission which is discovered to be similar to a published solution or one found online will be considered in breach of this policy.
 
-Note that it is a violation of this policy to submit a problem solution that you are unable to explain orally to a member of the course staff, and we reserve the right to spot-check for this requirement and to use tools like moss etc. to detect shared code.
-
-
-
-
-## Academic Integrity
+Note that it is a violation of this policy to submit a problem solution that you are unable to explain orally to a member of the course staff, and we reserve the right to spot-check for this requirement and to use tools like Moss etc. to detect shared code.
 
 
 ### Penalties
 
 If course staff detect violations to our collaboration policy, such as cheating, plagiarism, improperly sharing, copying another solution to an assignment (including portions thereof), or other dishonest behavior and honor code infractions, they may impose any penalty up to and including a **failing grade (F)** in the course. This is independent of and in addition to the operations of the Honor Code.
-- 1st Offense: You will receive **zero (0)** points on that assessment
+- 1st Offense: You will receive **zero (0)** points on that assessment, and your final grade will be reduced by one full letter grade (e.g. B goes down to C)
 - 2nd Offense: Automatic **F** in the course
 
 ## Professionalism
