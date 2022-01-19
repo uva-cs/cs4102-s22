@@ -1,9 +1,3 @@
----
-layout: default
-title: Table Test - CS4102 Algorithms - Spring 2022 
----
-
-
 CS4102 - Testing Table formatting
 ===============================
 
