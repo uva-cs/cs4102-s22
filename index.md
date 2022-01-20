@@ -18,5 +18,5 @@ between problems
 
 ## Course Organization
 
-[Schedule](schedule.html) - [Useful Topics Resources](resources.html) - [Useful Collaboration Resources](transition.html)
+[Schedule](./slides/schedule.html) - [Useful Topics Resources](resources.html) - [Useful Collaboration Resources](transition.html)
 
