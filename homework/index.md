@@ -5,9 +5,9 @@ title: Schedule - CS4102 Algorithms - Spring 2022
 
 # Homeworks
 
-## Homework 0 
+## Homework , AKA _A1Basic_
 
-* [Instructions](./cs4102_hw0_template.pdf)
-* Download [this .tex file](./cs4102_hw0.tex) and modify it
+* [Instructions](../unita/basic/latex/cs4102_A1basic.pdf)
+* Download [these files](../unita/basic/latex/cs4102_A1basic.zip) and modify them
 * Due date: Friday, Feb. 4, 11:30 pm.  Submit to GradeScope.
 

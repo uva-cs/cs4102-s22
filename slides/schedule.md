@@ -10,7 +10,7 @@ This is a tentative schedule of topics addressed.  As we go through the semester
 | Date    | Topic                                    | Slides/Notes | Readings | Homework |
 | ------- | ------                                   | -----        | ------   | -------  |
 |         | **Unit A**                               |              |          |          |
-| Jan 20  | Introduction                             | [ppt](cs4102-L1-intro.pptx), [pdf](cs4102-L1-intro.pdf)             |          | [A1Basic](unita/basic/latex/cs4102_A1basic.pdf) - [Starter Code](unita/basic/latex/cs4102_A1basic.zip)        |
+| Jan 20  | Introduction                             | [ppt](cs4102-L1-intro.pptx), [pdf](cs4102-L1-intro.pdf) |          | [A1Basic](../homework/index.html)        |
 | Jan 25  | Asymptotic Notation, Proofs              |              | Ch 3, 4  |          |
 | Jan 27  | Recurrence Relations, Divide and Conquer |              |          |          |
 | Feb 1   | Recurrence Relations                     |              |          |          |
