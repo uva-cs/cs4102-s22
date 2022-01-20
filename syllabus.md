@@ -160,7 +160,7 @@ If a student informs us that they cannot attend class in-person because they hav
 
 **Q: What if the Professor has to isolate/quarantine (either for themselves or because of a family member)?**
 
-If Prof. Hott has to isolate or quarantine, we may have a virtual class session, recording, or guest lecture.
+If Prof. Hott or Prof. Horton has to isolate or quarantine, we may have a virtual class session, recording, or guest lecture.
 
 **Q: Can I just not come to Rice 130 and just watch the lecture over Zoom or watch the recordings?**
 
