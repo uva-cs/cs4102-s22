@@ -27,9 +27,9 @@ The topics we will cover are difficult to master.  Below are resources to help w
 - [Levitin, Algorithmic Puzzles](https://search.lib.virginia.edu/catalog/u7095532)
 
 #### Software Development Methods (2110)
-- [Recursion 1](pdfs/31-recursion.pdf)
-- [Recursion 2](pdfs/32-recursion.pdf)
-- [Divide and Conquer](pdfs/33-divide-and-conquer.pdf)
+- [Recursion 1](resources/31-recursion.pdf)
+- [Recursion 2](resources/32-recursion.pdf)
+- [Divide and Conquer](resources/33-divide-and-conquer.pdf)
 
 #### LaTeX Resources
 The pen-and-paper (a.k.a. "written") assignments are not really pen-and-paper: they must be typeset with LaTeX, a professional formatting system. Tutorials on how to use LaTeX are provided with Homework 1A. LaTeX is easily installable on many computers: 
