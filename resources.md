@@ -7,10 +7,10 @@ title: Resources - CS4102 Algorithms - Spring 2022
 
 The topics we will cover are difficult to master.  Below are resources to help with foundational concepts, including proof techniques and additional practice problems.
 
-Related Resources
+#### Related Resources
 - [Logarithm Rules](https://en.wikipedia.org/wiki/List_of_logarithmic_identities)
 
-Discrete Math
+#### Discrete Math
 - [Lehman, Mathematics for Computer Science](pdfs/mcs.pdf)
     - For tips, see Section 1.9
 - [Velleman, How to Prove It](https://search.lib.virginia.edu/catalog/u4357637)
@@ -20,16 +20,27 @@ Discrete Math
     - [Some Proofs on Wikipedia](https://en.wikipedia.org/wiki/List_of_mathematical_proofs)
 - [Cusack, et al, An Active Introduction toDiscrete Mathematics and Algorithms](https://cusack.hope.edu/Notes/Notes/Books/AIDMA/AIDMA.2.7.1.pdf)
 
-Algorithms
+#### Algorithms
 - [CLRS, Introduction to Algorithms](https://search.lib.virginia.edu/catalog/u6757775)
 - [Wikipedia Algorithms Page](https://en.wikipedia.org/wiki/Algorithm)
 - [Skiena, The Algorithm Design Manual](https://www.amazon.com/dp/1849967202)
 - [Levitin, Algorithmic Puzzles](https://search.lib.virginia.edu/catalog/u7095532)
 
-Software Development Methods (2110)
+#### Software Development Methods (2110)
 - [Recursion 1](pdfs/31-recursion.pdf)
 - [Recursion 2](pdfs/32-recursion.pdf)
 - [Divide and Conquer](pdfs/33-divide-and-conquer.pdf)
+
+#### LaTeX Resources
+The pen-and-paper (a.k.a. "written") assignments are not really pen-and-paper: they must be typeset with LaTeX, a professional formatting system. Tutorials on how to use LaTeX are provided with Homework 1A. LaTeX is easily installable on many computers: 
+- Overleaf, [overleaf.com](http://overleaf.com): a Web-hosted LaTeX editor which behaves much like Google Docs.
+- Cygwin (which you may have seen in CS 2150) has LaTeX packages that can be installed
+- MiKTeX provides a stand-alone installer for Windows and Mac, [miktex.org](http://miktex.org)
+- Ubuntu and CentOS provide TeXLive packages in their repos
+- LyX, TexShop, and TeXStudio are GUI editors available either through the MiKTeX and TeXLive repos or available as separate downloads.
+
+We strongly recommend using Overleaf, [overleaf.com](http://overleaf.com), since it contains all the necessary packages and works in-browser. We generally will not accept LaTeX documents with images of text or formulas; **you must typeset the formulas in LaTeX**, not in another program and have them exported as images.
+
 
 ## Student-Submitted Resources
 
