@@ -11,7 +11,7 @@ This is a tentative schedule of topics addressed.  As we go through the semester
 | ------- | ------                                   | -----        | ------   | -------  |
 |         | **Unit A**                               |              |          |          |
 | Jan 20  | Introduction                             | [ppt](cs4102-L1-intro.pptx), [pdf](cs4102-L1-intro.pdf) |          | [A1Basic](../homework/index.html)        |
-| Jan 25  | Asymptotic Notation, Proofs              |              | Ch 3, 4  |          |
+| Jan 25  | Asymptotic Notation, Proofs              | [ppt](cs4102_L2_recurrences_DandC.pptx), [pdf](cs4102_L2_recurrences_DandC.pdf) | Ch 3, 4  |          |
 | Jan 27  | Recurrence Relations, Divide and Conquer |              |          |          |
 | Feb 1   | Recurrence Relations                     |              |          |          |
 | Feb 5   | Divide and Conquer Examples              |              |          |          |
