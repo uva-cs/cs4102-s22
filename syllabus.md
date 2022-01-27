@@ -4,6 +4,9 @@ title: Syllabus - Algorithms
 ---
 # Syllabus
 
+*Policy updated on 1/27*:  Max size of collaboration groups is 4 total (not 5).
+
+
 ## Contact Information 
 
 Tom Horton
@@ -112,7 +115,7 @@ Deadlines and policies on possible resubmissions for Advanced Homeworks and Prog
 * Exams are always individual assignments; collaboration with others is not allowed. Any solutions that share similar text or code will be considered in breach of this
 policy.
 
-* Homeworks and Programming Assignments: You are encouraged to collaborate with up to 4 other students in the course on these, but all work submitted must be your own independently written solution. While you may discuss techniques and collectively solve the problems in your group, you may not share any files or look at each others’ write-up or code. For instance, sharing source code files or Overleaf or Google Docs is not allowed. Likewise, pair programming or sharing the debugging of code are not allowed. Any solutions that share similar text or code will be considered in breach of this policy. You must list the names and computing IDs of all of your collaborators in your submitted files.
+* Homeworks and Programming Assignments: You are encouraged to collaborate with up to 3 other students in the course on these, but all work submitted must be your own independently written solution. While you may discuss techniques and collectively solve the problems in your group, you may not share any files or look at each others’ write-up or code. For instance, sharing source code files or Overleaf or Google Docs is not allowed. Likewise, pair programming or sharing the debugging of code are not allowed. Any solutions that share similar text or code will be considered in breach of this policy. You must list the names and computing IDs of all of your collaborators in your submitted files.
 
 We encourage you not to seek published or online solutions for any assignment, since this is not a good way to learn. Studying code examples online is permitted, but only for getting ideas about how to address a programming solution. Copying or reusing large portions of code from an online source to solve a significant part of the assignment violates the honor pledge for that homework. You must cite sources of any online code you
 use in this way in a comment in your source file(s).
