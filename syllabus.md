@@ -17,7 +17,7 @@ Tom Horton
 Robbie Hott
 - Email: jrhott_at_virginia.edu
 - Office: Rice 210
-- Office Hours (Zoom-only): tbd 
+- Office Hours (Zoom-only): Mon 3:00-5:00 pm (4-5pm prioritizing 4102); Fri 12:00-2:00 (1-2pm prioritizing 4102); by appointment
 
 **Teaching Assistants**: See course website.  Office hours will be done in-person and using Discord. 
 
