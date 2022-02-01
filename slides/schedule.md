@@ -13,7 +13,7 @@ This is a tentative schedule of topics addressed.  As we go through the semester
 | Jan 20  | Introduction                             | [ppt](cs4102-L1-intro.pptx), [pdf](cs4102-L1-intro.pdf) |          | [A1Basic](../homework/index.html)        |
 | Jan 25  | Asymptotic Notation, Proofs              | [ppt](cs4102_L2_recurrences_DandC.pptx), [pdf](cs4102_L2_recurrences_DandC.pdf) | Ch 3, 4  |          |
 | Jan 27  | Recurrence Relations, Divide and Conquer | [ppt](cs4102_L3_sorting_intro.pptx), [pdf](cs4102_L3_sorting_intro.pdf)         |          |          |
-| Feb 1   | Recurrence Relations                     |              |          |          |
+| Feb 1   | Recurrence Relations                     | [ppt](cs4102_L4_G&C_Master.pptx), [pdf](cs4102_L4_G&C_Master.pdf)         |          |          |
 | Feb 5   | Divide and Conquer Examples              |              |          |          |
 | Feb 8   | Quicksort, Partition, QuickSelect        |              |          |          |
 | Feb 10  | Medians of medians, Randomized QS, Lower Bounds Proofs              |              |          |          |
