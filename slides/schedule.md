@@ -14,7 +14,7 @@ This is a tentative schedule of topics addressed.  As we go through the semester
 | Jan 25  | Asymptotic Notation, Proofs              | [ppt](cs4102_L2_recurrences_DandC.pptx), [pdf](cs4102_L2_recurrences_DandC.pdf) | Ch 3, 4  |          |
 | Jan 27  | Recurrence Relations, Divide and Conquer | [ppt](cs4102_L3_sorting_intro.pptx), [pdf](cs4102_L3_sorting_intro.pdf)         |          |          |
 | Feb 1   | Recurrence Relations                     | [ppt](cs4102_L4_G&C_Master.pptx), [pdf](cs4102_L4_G&C_Master.pdf)  |          |          |
-| Feb 5   | Divide and Conquer Examples              | [ppt](cs4102_L5_closestpair_Strassen.pptx), [pdf](cs4102_L5_closestpair_Strassen.pdf)  |          |          |
+| Feb 5   | Closest pair of points, Matrix Multiplication | [ppt](cs4102_L5_closestpair_Strassen.pptx), [pdf](cs4102_L5_closestpair_Strassen.pdf)  |          |          |
 | Feb 8   | Quicksort, Partition, QuickSelect        |              |          |          |
 | Feb 10  | Medians of medians, Randomized QS, Lower Bounds Proofs              |              |          |          |
 | Feb 15  | Other sorts and D&C problems             |              |          |          |
@@ -46,4 +46,3 @@ This is a tentative schedule of topics addressed.  As we go through the semester
 |         | **Final Exam Period**                    |              |          |          |
 | May 10  | 7-10 PM. Exam on Unit D, Re-takes for B & C    |              |          |          |
 
-cs4102_L5_closestpair_Strassen
