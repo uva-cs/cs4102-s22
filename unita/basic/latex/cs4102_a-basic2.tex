@@ -1,6 +1,6 @@
 %---------change this for every latex homework
-\def\yourid{mst3k}
-\def\collabs{list collaborators's computing IDs}
+\def\yourid{mst3k}   % replace with your UVA computing ID
+\def\collabs{list collaborators' computing IDs}
 \def\sources{Cormen, et al, Introduction to Algorithms.  \emph{(add others here)}}
 % -----------------------------------------------------
 \def\duedate{Friday, February 18, 2022 at 11:30 pm }
@@ -75,10 +75,13 @@
 %----Begin your modifications here
 
 
+%--- Problem 1 ------------------------------------------------------------------------------
 \begin{problem} Asymptotics \end{problem}
 
     \begin{enumerate}   
     	\item Write a mathematical statement using the appropriate order-class to express ``Algorithm A's worst-case $W(n)$  is quadratic.''
+    	
+    	\textbf{Solution:}  \emph{Add your solution like this below each question.}
     	
     	\item Write a mathematical statement using the appropriate order-class to express ``Algorithm A's time-complexity $T(n)$ is never worse than cubic for any input.''
      
@@ -88,30 +91,11 @@
         \item Prove or disprove the following statement: 
         $n (\log n)^2 \in O\left(n^{1.5}(\log n)\right)$.
         
-            \solution{ True.  We must show $\exists c>0,n_0>0$ such that $\forall n > n_0, n (\log n)^2 \le c n^{1.5}\log n.$ Let $c = 1$ and $n_0 = 1$, then
-            \begin{eqnarray*}
-                n (\log n)^2 &\le& c n^{1.5}\log n\\
-                n (\log n)^2 &\le& n^{1.5}\log n\\
-                n (\log n)(\log n) &\le& n^{1.5}\log n\\
-                (\log n)(\log n) &\le& n^{1/2}\log n\\
-                (\log n) &\le& n^{1/2}.
-            \end{eqnarray*}
-            For all $n > 1$, $\log n \le \sqrt{n}$ and therefore $n (\log n)^2 \in O(n^{1.5}\log n).$}
-
-            \altsolution{A second way to solve this is to use the limit definition for order classes: \\
-            if $f(n) \in O(g(n))$ then $\displaystyle \lim_{n \rightarrow\infty} \frac{f(n)}{g(n)} = c$ where $c\leq \infty$.
-           \begin{align*}
-             \lim_{n \rightarrow\infty} \frac{ n (\log n)^2 }{ n^{1.5}\log n }
-              & =  \lim_{n \rightarrow\infty} \frac{\log n}{ n^{0.5}}  && \text{\qquad(cancel terms)} \\
-              & =  \lim_{n \rightarrow\infty} \frac{k/n}{ (1/2)n^{-0.5}} && \text{\qquad(apply L’Hopital’s rule)} \\
-               & =  \lim_{n \rightarrow\infty} \frac{2k}{ n^{0.5}} && \text{\qquad(simplify)} \\
-               & = 0 && \text{\qquad(limit of a constant over function of n is zero)} \\
-         \end{align*}
-            Therefore  therefore $n (\log n)^2 \in O(n^{1.5}\log n)$ (and in fact it's in ``little-oh'' and grows more slowly).
-          }
+        
             
     \end{enumerate}
 
+%--- Problem 2 ------------------------------------------------------------------------------
 \begin{problem} Basic Sorting \end{problem}
     \begin{enumerate}   
     	\item In a few sentences, explain if changing the comparison done in mergesort's \emph{merge()} function from $\leq$ to $<$ makes the sorting algorithm incorrect, and also whether it makes the sort unstable.
@@ -127,6 +111,7 @@
     	
     \end{enumerate}       	
 
+%--- Problem 3 ------------------------------------------------------------------------------
 \begin{problem} Recurrence Relations \end{problem}
       \begin{enumerate}   
     
@@ -150,7 +135,8 @@
     	
       \end{enumerate}   
 
-    \begin{problem} Divide and Conquer \end{problem}
+%--- Problem 4 ------------------------------------------------------------------------------
+ \begin{problem} Divide and Conquer \end{problem}
     
     \begin{enumerate}
     \item
@@ -166,6 +152,8 @@
 
 \emph{Hint:} Compare pairs of attendees and try to eliminate one of them. Then you might  want to do a swap for each comparison to make sure all attendees that have a certain property are together in one part of your list so you can recurse on just those.
       \end{enumerate}   
+      
+      
 
 \begin{problem} Gradescope Submission \end{problem}
 Submit a version of this \verb|.tex| file to Gradescope with your solutions added.  You should only submit your \verb|.pdf| and \verb|.tex| files.
