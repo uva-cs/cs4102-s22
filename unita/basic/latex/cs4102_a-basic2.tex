@@ -136,23 +136,23 @@
       \end{enumerate}   
 
 %--- Problem 4 ------------------------------------------------------------------------------
- \begin{problem} Divide and Conquer \end{problem}
+ \begin{problem} Divide and Conquer \#1\end{problem}
     
-    \begin{enumerate}
-    \item
-	Write pseudo-code that implements a divide and conquer algorithm for the following problem.  Given a list $L$ of size $n$,  find values of the largest and second largest items in the list.  (Assume that $L$ contains unique values.)
+\noindent
+Write pseudo-code that implements a divide and conquer algorithm for the following problem.  Given a list $L$ of size $n$,  find values of the largest and second largest items in the list.  (Assume that $L$ contains unique values.)
 	
 	In your pseudo-code,  you can indicate that a pair of values is returned by a function using Python-like syntax, if you wish.  For example,  a function $funky()$ that had this return statement:\\
 	\hspace*{3em}{\tt return a, b} \\
 	would could be used to assign $a$ to $x$ and $b$ to $y$ if called this way: \\
 	\hspace*{3em}{\tt (x, y) = funky()}
 	
-\item
+%--- Problem 5 ------------------------------------------------------------------------------
+ \begin{problem} Divide and Conquer \#2\end{problem}
+
+\noindent
 \textbf{Conference Superstar.}  There is a CS conference with $n$ attendees. One attendee is a ``superstar'' --- she is new to the field and has written the top paper at the conference.  She is the attendee whom all other attendees know, yet she knows no other attendee.  Specifically, if attendee $a_i$ is the superstar, then $\forall a_j \neq a_i$, $knows(a_j, a_i) == true$ and $knows(a_i, a_j) == false$.  Other attendees may or may not know each other, as is true for ``normal'' meetings.  Give a $O(n)$ algorithm which determines who the superstar is.
 
-\emph{Hint:} Compare pairs of attendees and try to eliminate one of them. Then you might  want to do a swap for each comparison to make sure all attendees that have a certain property are together in one part of your list so you can recurse on just those.
-      \end{enumerate}   
-      
+\emph{Hint:} Compare pairs of attendees and try to eliminate one of them. Then you might  want to do a swap for each comparison to make sure all attendees that have a certain property are together in one part of your list so you can recurse on just those.      
       
 
 \begin{problem} Gradescope Submission \end{problem}
