@@ -30,7 +30,7 @@ between problems
 - Advanced Homeworks:  There is a soft deadline and a hard deadline.
    - If you submit by the soft deadline, we will commit to giving you feedback within about a week, which will give you a few days to update your solution before the hard deadline.
    - If you submit after the soft deadline, we will try but won't guarantee you'll get feedback before the hard deadline.
-   - You may submit solutions at most twice: once to get some feedback, and the second as you final submission.
+   - You may submit solutions at most twice: once to get some feedback, and the second as your final submission.
    
 - Program Deadlines:  They have a hard deadline that is the same as that unit's hard deadline for Advanced Homeworks.  They'll be submitted to GradeScope and run against test-cases. You'll be able to re-submit multiple times, but it's possible that for some program we may limit how many times you can submit. (See each assignment for details.)
 
@@ -66,10 +66,11 @@ between problems
 - Fri., 4/1: Unit B Adv HW hard deadline **and** Unit B Program
 
 ## Week 10:
-- Fri., 4/8: Unit C Basic HWs (due 11:30pm. **Hard Deadline!** Solutions will be released Sat. morning)
+- Nothing is due
 
 ## Week 11:
 - Mon., 4/11: soft deadline for Unit C Adv. HW 
+- Fri., 4/15: Unit C Basic HWs (due 11:30pm. **Hard Deadline!** Solutions will be released Sat. morning)
 
 ## Week 12:
 - Tue., 4/19: Unit C Exam
