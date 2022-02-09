@@ -23,10 +23,9 @@ title: Schedule - CS4102 Algorithms - Spring 2022
     * [Python package](../unita/programming/python.zip)
     * [Java package](../unita/programming/java.zip)
     * [C++ package](../unita/programming/cpp.zip)
-* Due date: Friday, Mar. 4, 11:30pm.  Submit to Gradescope
+* Due date: Friday, Mar. 4, 11:30pm.  Submit to Gradescope.  **Submissions will open Wed, Feb 16.**
     * **Note:** Gradescope will only run tests for and grade your first **10** submissions.  It's important to plan your algorithm before coding and write your own test cases.
     * Only submit your **ClosestPair** and supplement files (if needed).  You do not need to submit your test cases or Main file.
-
 ### Basic Homework
 
 #### A2Basic: Sorting, Divide and Conquer, Recurrences
