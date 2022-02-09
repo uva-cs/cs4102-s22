@@ -15,6 +15,18 @@ title: Schedule - CS4102 Algorithms - Spring 2022
 * Due date: Friday, Mar. 4, 11:30pm.  Submit to Gradescope.
      * If you submit by Feb 21, we will provide feedback by March 1 
 
+### Programming Homework
+
+* **Instructions:**  See the homework description PDF file below for complete instructions.  You should download one of the sets of starter code for your chosen programming languages.  While each language is different, the algorithm will be the same, so choose the language you are familiar with.
+* [Homework Instructions](../unita/programming/cs4102_a-programming.pdf) - Choosing Mars Pioneers
+* Starter Code:
+    * [Python package](../unita/programming/python.zip)
+    * [Java package](../unita/programming/java.zip)
+    * [C++ package](../unita/programming/cpp.zip)
+* Due date: Friday, Mar. 4, 11:30pm.  Submit to Gradescope
+    * **Note:** Gradescope will only run tests for and grade your first **10** submissions.  It's important to plan your algorithm before coding and write your own test cases.
+    * Only submit your **ClosestPair** and supplement files (if needed).  You do not need to submit your test cases or Main file.
+
 ### Basic Homework
 
 #### A2Basic: Sorting, Divide and Conquer, Recurrences
