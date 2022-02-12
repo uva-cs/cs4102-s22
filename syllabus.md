@@ -4,7 +4,7 @@ title: Syllabus - Algorithms
 ---
 # Syllabus
 
-*Policy updated on 2/12*:  Policies on submission and feedback for basic and advanced HW updated to reflect the change (the details) presented in class this past week.
+*Policy updated on 2/12*:  Policies on HWs and program submission etc. updated to reflect what was presented in class this week. Changes are marked below. Announcement on Collab has more details and an explanation.
 
 *Policy updated on 1/27*:  Max size of collaboration groups is 4 total (not 5).
 
@@ -106,15 +106,15 @@ Here is information about how the assignments will be graded:
 
 * Basic Homework: Three scores are possible:  Reasonably Successful (100), Partially Successful (83), Flawed or Incomplete (0). (**Updated from original syllabus.** ) ~~Graders will review your assignments quickly to determine these scores. You may re-submit up until the deadline.~~ Solutions will be released after the deadline and before the exam, ~~so you may not get your score before the exam,~~ and you won't get detailed feedback on your answers.
 
-* Advanced Homework: These will be graded more carefully, and one of the following scores will be assigned: Excellent (100), Reasonably Successful (93), Partially Successful (83), Flawed Attempt (30), No Credit (0). (**Here's more details that were not in the original syllabus.** )  There will be a soft deadline and a hard deadline.
+* Advanced Homework: These will be graded more carefully, and one of the following scores will be assigned: Excellent (100), Reasonably Successful (93), Partially Successful (83), Flawed Attempt (30), No Credit (0). (**Here's more detail that was not in the original syllabus.** )  There will be a soft deadline and a hard deadline.
     - If you submit by the soft deadline, we will commit to giving you feedback within about a week, which will give you a few days to update your solution before the hard deadline.
     - If you submit after the soft deadline, we will try but won’t guarantee you’ll get feedback before the hard deadline.
     - You may submit solutions at most twice: once to get some feedback, and the second as your final submission.
 
 
-* Programming Assignments: The possible grades will be the same as for Advanced Homeworks. Grades will primarily be based on passing test-cases, but we may also review your code to make sure you've followed the problem constraints (for example, you actually implemented the algorithm we specified).
+* Programming Assignments: The possible grades will be the same as for Advanced Homeworks. Grades will primarily be based on passing test-cases, but we may also review your code to make sure you've followed the problem constraints (for example, you actually implemented the algorithm we specified). (**Here's is detail that was not in the original syllabus.** ) Resubmissions to GradeScope will be allowed to run against our test cases. If there will be any restriction on the number, it will be announced when GradeScope is set up for that assignment.
 
-Deadlines and policies on possible resubmissions for Advanced Homeworks and Programming Assignments will be announced when those assignments are released.
+~~Deadlines and policies on possible resubmissions for Advanced Homeworks and Programming Assignments will be announced when those assignments are released.~~
 
 ## Collaboration Policies for Assignments and Exams
 
