@@ -7,6 +7,11 @@ title: Schedule - CS4102 Algorithms - Spring 2022
 
 ## Unit A
 
+### Solutions to Basic Homeworks
+
+* [Unit A Basic #2](../unita/basic/cs4102_a-basic2_solutions.pdf)
+* [Unit A Basic #3](../unita/basic/cs4102_a-basic3-solutions.pdf)
+
 ### Advanced Homework
 
 * **Instructions:** Download the .tex file and add your answers to the questions in it. Put your answer right below each question with the text **Solution** at the beginning of each answer.  
