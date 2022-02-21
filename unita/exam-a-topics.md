@@ -4,7 +4,9 @@ title: CS4102 Algorithms - Spring 2022
 ---
 # Topics for Unit A Exam: CS4102 Algorithms - Spring 2022
 
-Document Version: 1.0, 2/17/2022
+Document Version: 1.1, 2/21/2022
+
+Update: Original text used CLRS term "substitution" for what we called the guess-and-check method. We clarified that these are the same thing.
 
 
 Overview
@@ -56,7 +58,7 @@ Topics that might be covered on the Unit A Exam include:
 
 - Writing recurrence relations for D&C algorithms
 
-- Reducing recurrences to closed form using the "unrolling" method, substituion (including simple induction proofs). You won't be asked to draw a tree for the tree method, but you might be asked about this method
+- Reducing recurrences to closed form using the "unrolling" method, guess-and-check -- what CLRS calls "substitution" -- (including simple induction proofs). You won't be asked to draw a tree for the tree method, but you might be asked about this method
 
 - Using the Master theorem, including when Case 1 or 3 cannot be used.
 
