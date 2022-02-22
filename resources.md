@@ -26,6 +26,9 @@ The topics we will cover are difficult to master.  Below are resources to help w
 - [Skiena, The Algorithm Design Manual](https://www.amazon.com/dp/1849967202)
 - [Levitin, Algorithmic Puzzles](https://search.lib.virginia.edu/catalog/u7095532)
 
+#### Programming Resources
+-[C++ demo program](resources/cpp-demo1.cpp).  This program demonstrates some useful C++ techniques you may not have learned in CS2150: using library classes for pairs and tuples; how to sort vectors of pairs, tuples, structs and objects; how to use the built-in map class for lookup tables. 
+
 #### Software Development Methods (2110)
 - [Recursion 1](resources/31-recursion.pdf)
 - [Recursion 2](resources/32-recursion.pdf)
