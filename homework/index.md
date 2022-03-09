@@ -7,12 +7,26 @@ title: Schedule - CS4102 Algorithms - Spring 2022
 
 ## Unit B
 
+### Basic Homework
+
 #### B1_Basic: BFS and DFS
 
 * **Instructions:** The first (of two) basic homeworks for UnitB. Download the .tex file and add your answers to the questions in it. Put your answer right below each question. This time we've added a \solution{} LaTeX item where you can include your solution, if that helps. (If you don't use it, put the text **Solution** at the beginning of each answer.)
 * Download [this file](../unitb/basic/latex/cs4102_b-basic1.tex) and modify it.
 * Here's [the PDF](../unitb/basic/latex/cs4102_b-basic1.pdf) of this file (so you can look at the questions now if you wish).
 * Due date: Friday, March 18, 2022 at {\bf 11:30 pm.} (Note 11:59, not midnight!)  Submit to GradeScope. **Note:** this is a hard deadline because we'll release solutions the next morning.
+
+#### B2_Basic: DFS, Topological Sort, SCCs, Kruskal's, Prim's and Dijkstra's
+
+This will be available by the end of spring break.
+
+### Advanced Homework
+
+Coming soon!  Will be shorter than Unit A's!
+
+### Programming Homework
+
+Coming soon!
 
 
 ## Unit A
@@ -41,6 +55,7 @@ title: Schedule - CS4102 Algorithms - Spring 2022
 * Due date: Friday, Mar. 4, 11:30pm.  Submit to Gradescope.  **Submissions will open Wed, Feb 16.**
     * **Note:** Gradescope will only run tests for and grade your first **10** submissions.  It's important to plan your algorithm before coding and write your own test cases.
     * Only submit your **ClosestPair** and supplement files (if needed).  You do not need to submit your test cases or Main file.
+    
 ### Basic Homework
 
 #### A3Basic: Quicksort, QuickSelect, Strassen's, Lower Bound Proof
