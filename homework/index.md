@@ -14,11 +14,17 @@ title: Schedule - CS4102 Algorithms - Spring 2022
 * **Instructions:** The first (of two) basic homeworks for UnitB. Download the .tex file and add your answers to the questions in it. Put your answer right below each question. This time we've added a \solution{} LaTeX item where you can include your solution, if that helps. (If you don't use it, put the text **Solution** at the beginning of each answer.)
 * Download [this file](../unitb/basic/latex/cs4102_b-basic1.tex) and modify it.
 * Here's [the PDF](../unitb/basic/latex/cs4102_b-basic1.pdf) of this file (so you can look at the questions now if you wish).
-* Due date: Friday, March 18, 2022 at {\bf 11:30 pm.} (Note 11:59, not midnight!)  Submit to GradeScope. **Note:** this is a hard deadline because we'll release solutions the next morning.
+* Due date: Friday, March 18, 2022 at {\bf 11:30 pm.} (Not 11:59, not midnight!)  Submit to GradeScope. **Note:** this is a hard deadline because we'll release solutions the next morning.
 
 #### B2_Basic: DFS, Topological Sort, SCCs, Kruskal's, Prim's and Dijkstra's
 
-This will be available by the end of spring break.
+* **Instructions:** The second (of two) basic homeworks for UnitB. Download the .tex file and add your answers to the questions in it. Put your answer right below each question. This time we've added a \solution{} LaTeX item where you can include your solution, if that helps. (If you don't use it, put the text **Solution** at the beginning of each answer.)
+* Download [this file](../unitb/basic/latex/cs4102_b-basic2.tex) and modify it.
+* You will also need these two image files:
+    * [graph_DFS.png](../unitb/basic/latex/graph_DFS.png) and
+    * [graph_DFS.png](../unitb/basic/latex/graph_DFS.png)
+* Here's [the PDF](../unitb/basic/latex/cs4102_b-basic2.pdf) of this file (so you can look at the questions now if you wish).
+* Due date: Friday, March 18, 2022 at {\bf 11:30 pm.} (Not 11:59, not midnight!)  Submit to GradeScope. **Note:** this is a hard deadline because we'll release solutions the next morning.
 
 ### Advanced Homework
 
