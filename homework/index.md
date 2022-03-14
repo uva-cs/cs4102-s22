@@ -22,7 +22,7 @@ title: Schedule - CS4102 Algorithms - Spring 2022
 * Download [this file](../unitb/basic/latex/cs4102_b-basic2.tex) and modify it.
 * You will also need these two image files:
     * [graph_DFS.png](../unitb/basic/latex/graph_DFS.png) and
-    * [graph_DFS.png](../unitb/basic/latex/graph_DFS.png)
+    * [graph_MST1.png](../unitb/basic/latex/graph_MST1.png)
 * Here's [the PDF](../unitb/basic/latex/cs4102_b-basic2.pdf) of this file (so you can look at the questions now if you wish).
 * Due date: Friday, March 18, 2022 at {\bf 11:30 pm.} (Not 11:59, not midnight!)  Submit to GradeScope. **Note:** this is a hard deadline because we'll release solutions the next morning.
 
