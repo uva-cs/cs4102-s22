@@ -19,6 +19,7 @@ title: Schedule - CS4102 Algorithms - Spring 2022
 #### B2_Basic: DFS, Topological Sort, SCCs, Kruskal's, Prim's and Dijkstra's
 
 * **Instructions:** The second (of two) basic homeworks for UnitB. Download the .tex file and add your answers to the questions in it. Put your answer right below each question. This time we've added a \solution{} LaTeX item where you can include your solution, if that helps. (If you don't use it, put the text **Solution** at the beginning of each answer.)
+* Note: A update clarifying Problem 2.A was added to these files on 2/14 at 8:00 pm.
 * Download [this file](../unitb/basic/latex/cs4102_b-basic2.tex) and modify it.
 * You will also need these two image files:
     * [graph_DFS.png](../unitb/basic/latex/graph_DFS.png) and
