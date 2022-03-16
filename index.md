@@ -49,12 +49,11 @@ between problems
  |         | Fri 3/4    | Unit A Adv HW hard deadline **and** Unit A Program                                           |
  | -----   | 3/7 - 3/11 | SPRING BREAK                                                                                 |
  | Week 7  | Tue 3/15   | Chance to re-take Unit A Exam                                                                |
- |         | Fri 3/18   | Unit B Basic HWs (due 11:30pm. **Hard Deadline!** Solutions will be released Sat. morning)   |
- | Week 8  | Mon 3/21   | Soft deadline for  Unit B Adv. HW                                                            |
- |         | Tue 3/22   | Exam B                                                                                       |
- | Week 9  | Tue 3/29   | Early Unit B Adv HW submissions returned                                                     |
- |         | Fri 4/1    | Unit B Adv HW hard deadline **and** Unit B Program                                           |
- | Week 10 | ----       | Nothing Due                                                                                  |
+ | Week 8  | Fri 3/25   | Unit B Basic HWs (due 11:30pm. **Hard Deadline!** Solutions will be released Sat. morning)   |
+ | Week 9  | Mon 3/28   | Soft deadline for  Unit B Adv. HW                                                            |
+ |         | Tue 3/29   | Exam B                                                                                       |
+ | Week 10 | Tue 4/5    | Early Unit B Adv HW submissions returned                                                     |
+ |         | Fri 4/8    | Unit B Adv HW hard deadline **and** Unit B Program                                           |
  | Week 11 | Mon 4/11   | Soft deadline for Unit C Adv. HW                                                             |
  |         | Fri 4/15   | Unit C Basic HWs (due 11:30pm. **Hard Deadline!** Solutions will be released Sat. morning)   |
  | Week 12 | Tue 4/19   | Unit C Exam                                                                                  |
