@@ -31,7 +31,7 @@ title: Schedule - CS4102 Algorithms - Spring 2022
 
 * **Instructions:**  Download the .tex file and add your answers to the questions in it. Put your answer right below each question. This time we've added a \solution{} LaTeX item where you can include your solution, if that helps. (If you don't use it, put the text **Solution** at the beginning of each answer.)
 * Download [this file](../unitb/advanced/cs4102_b-adv.tex) and modify it.
-* You will also need this image files: [vulnerable-sets.png](../unitb/basic/vulnerable-sets.png)
+* You will also need this image files: [vulnerable-sets.png](../unitb/advanced/vulnerable-sets.png)
 * Here's [the PDF](../unitb/advanced/cs4102_b-adv.pdf) of this file (so you can look at the questions now if you wish).
 * Due date: Friday, April 8, 2022 at {\bf 11:30 pm.} (Not 11:59, not midnight!)  Submit to GradeScope.
 
