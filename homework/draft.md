@@ -45,7 +45,7 @@ title: Schedule - CS4102 Algorithms - Spring 2022
 ### Programming Homework
 
 * **Instructions:**  See the homework description PDF file below for complete instructions.  You should download one of the sets of starter code for your chosen programming languages.  While each language is different, the algorithm will be the same, so choose the language you are familiar with.
-* [Homework Instructions](../unitb/programming/cs4102_b-programming.pdf) - Choosing Mars Pioneers
+* [Homework Instructions](../unitb/programming/cs4102_b-programming.pdf) - Supply Chain
 * Starter Code:
     * [Python package](../unitb/programming/python.zip)
     * [Java package](../unitb/programming/java.zip)
