@@ -7,6 +7,12 @@ title: Schedule - CS4102 Algorithms - Spring 2022
 
 ## Unit B
 
+### Solutions to Basic Homeworks
+
+* [Unit B Basic #2](../unita/basic/cs4102_a-basic1_solutions.pdf)
+* [Unit B Basic #3](../unita/basic/cs4102_a-basic2-solutions.pdf)
+
+
 ### Basic Homework
 
 #### B1_Basic: BFS and DFS
