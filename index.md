@@ -55,7 +55,7 @@ between problems
  | Week 10 | Tue 4/5    | Early Unit B Adv HW submissions returned                                                     |
  |         | Fri 4/8    | Unit B Adv HW hard deadline **and** Unit B Program                                           |
  | Week 11 | Mon 4/11   | Soft deadline for Unit C Adv. HW                                                             |
- |         | Fri 4/15   | Unit C Basic HWs (due 11:30pm. **Hard Deadline!** Solutions will be released Sat. morning)   |
+ |         | Fri 4/15   | Unit B Program hard deadline **and**  Unit C Basic HWs both due 11:30pm. **Hard Deadline!** Unit C Basic HW Solutions will be released Sat. morning)   |
  | Week 12 | Tue 4/19   | Unit C Exam                                                                                  |
  |         | Tue 4/19   | Early Unit C Adv HW submissions returned                                                     |
  |         | Fri 4/22   | Unit C Adv HW hard deadline **and** Unit C Program                                           |
