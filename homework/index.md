@@ -5,6 +5,31 @@ title: Schedule - CS4102 Algorithms - Spring 2022
 
 # Homeworks
 
+## Unit C
+
+### Basic Homework
+
+Coming Soon.
+
+### Advanced Homework
+
+* **Instructions:**  Download the .tex file and add your answers to the questions in it. Put your answer right below each question. This time we've added a \solution{} LaTeX item where you can include your solution, if that helps. (If you don't use it, put the text **Solution** at the beginning of each answer.)
+* Download [this file](../unitc/advanced/unitc-advanced.tex) and modify it.
+* Here's [the PDF](../unitc/advanced/unitc-advanced.pdf) of this file (so you can look at the questions now if you wish).
+* Due date: Friday, April 22, 2022 at **11:30 pm**. (Not 11:59, not midnight!)  Submit to GradeScope.
+
+### Programming Homework
+
+* **Instructions:**  See the homework description PDF file below for complete instructions.  You should download the set of starter code, which includes both Python and Java.  While each language is different, the algorithm will be the same, so choose the language you are familiar with.
+* [Homework Instructions](../unitc/programming/unitc-programming.pdf) - Seam Carving
+* Starter Code:
+    * [Python + Java package](../unitc/programming/unitCprogram.zip)
+* Due date: April 22, **11:30pm**.  Submit to Gradescope.  **Submissions with test cases will open Monday, April 11.**
+    * **Note:** Gradescope will only run tests for and grade your first **20** submissions.  It's important to plan your algorithm before coding and write your own test cases.
+    * To make sure your program compiles and runs on GradeScope, there is a "testing" submission site called **Unit C - Programming (Testing Only)** that will try your program against the images that we have given you in the Zip file. This is available Wednesday, April 6, and there is no limit to the submissions.  Make sure your program works here before you submit to the "real" GradeScope assignment with more test-cases that will be available later.
+    * Only submit your **SeamCarving** and supplement files (if needed).  You do not need to submit your test cases or Main file.
+
+
 ## Unit B
 
 ### Solutions to Basic Homeworks
