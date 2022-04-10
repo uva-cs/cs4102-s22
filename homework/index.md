@@ -18,7 +18,10 @@ title: Schedule - CS4102 Algorithms - Spring 2022
 
 #### C2_Basic: Greedy
 
-Coming soon.
+* **Instructions:** The second basic homework for UnitC. Download the .tex file and add your answers to the questions in it. Put your answer right below each question. This time we've added a \solution{} LaTeX item where you can include your solution, if that helps. (If you don't use it, put the text **Solution** at the beginning of each answer.)
+* Download [this file](../unitc/basic/unitc_basic2.tex) and modify it.
+* Here's [the PDF](../unitc/basic/unitc_basic2.pdf) of this file (so you can look at the questions now if you wish).
+* Due date: Friday, April 15, 2022 at {\bf 11:30 pm.} (Not 11:59, not midnight!)  Submit to GradeScope. **Note:** this is a hard deadline because we'll release solutions the next morning.
 
 ### Advanced Homework
 
