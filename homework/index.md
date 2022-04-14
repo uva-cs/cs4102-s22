@@ -87,11 +87,10 @@ title: Schedule - CS4102 Algorithms - Spring 2022
     * [Python package](../unitb/programming/python.zip)
     * [Java package](../unitb/programming/java.zip)
     * [C++ package](../unitb/programming/cpp.zip)
-* Due date: April 15, 11:30pm.  Submit to Gradescope.  **Submissions with test cases will open Fri., April 1.**
+* Due date: April 15, 11:30pm.  Submit to Gradescope.  **Submissions with test cases will open Fri., April 1.** <b style="color:red">Update: Due Sunday, April 17, 11:30pm.  Late submissions with 10pt penalty by Tuesday, April 19, 11:30pm</b>
     * **Note:** Gradescope will only run tests for and grade your first **20** submissions.  It's important to plan your algorithm before coding and write your own test cases.
     * To make sure your program compiles and runs on GradeScope, there is a "testing" submission site called **Unit B - Programming (Testing Only)** that will try your program against one test-file, the one that we have given you in the Zip file. This is available right now and there is no limit to the submissions. Make sure your program works here before you submit to the "real" GradeScope assignment with more test-cases that will be available later.
     * Only submit your **Supply** and supplement files (if needed).  You do not need to submit your test cases or Main file.
-
 
 ## Unit A
 
