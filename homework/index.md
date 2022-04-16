@@ -7,6 +7,12 @@ title: Schedule - CS4102 Algorithms - Spring 2022
 
 ## Unit C
 
+### Solutions to Basic Homeworks
+
+* [Unit C Basic #1](../unitc/basic/cs4102_c-basic1-solutions.pdf)
+* [Unit C Basic #2](../unitc/basic/cs4102_c-basic2-solutions.pdf)
+
+
 ### Basic Homework
 
 #### C1_Basic: Dynamic Programming
