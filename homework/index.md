@@ -7,6 +7,14 @@ title: Schedule - CS4102 Algorithms - Spring 2022
 
 ## Unit D
 
+### Advanced Homework
+
+* **Instructions:**  Download the .tex file and add your answers to the questions in it. Put your answer right below each question. This time we've added a \solution{} LaTeX item where you can include your solution, if that helps. (If you don't use it, put the text **Solution** at the beginning of each answer.)
+* Download [this file](../unitd/advanced/cs4102_D_advanced.tex) and modify it.
+* Here's [the PDF](../unitd/advanced/cs4102_D_advanced.pdf) of this file (so you can look at the questions now if you wish).
+* Due date: Tuesday, May 3, 2022 at **11:30 pm**. (Not 11:59, not midnight!)  Submit to GradeScope.
+* Because we're at the end of term, there is no "early deadline" option for this HW. :-(
+
 ### Programming Homework
 
 * **Instructions:**  See the homework description PDF file below for complete instructions.  You should download the set of starter code, which includes both Python and Java.  While each language is different, the algorithm will be the same, so choose the language you are familiar with.
