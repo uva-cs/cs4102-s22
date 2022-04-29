@@ -7,6 +7,14 @@ title: Schedule - CS4102 Algorithms - Spring 2022
 
 ## Unit D
 
+#### D_Basic: Reductions and NP-Complete
+
+* **Instructions:** The one and only basic homework for Unit D. Download the .tex file and add your answers to the questions in it. Put your answer right below each question. We've added a \solution{} LaTeX item where you can include your solution, if that helps. (If you don't use it, put the text **Solution** at the beginning of each answer.)
+* Download [this file](../unitd/basic/cs4102_d-basic.tex) and modify it.
+* Here's [the PDF](../unitd/basic/cs4102_d-basic.pdf) of this file (so you can look at the questions now if you wish).
+* Due date: Tuesday, 5/3, 2022 at {\bf 11:30 pm.} Submit to GradeScope. 
+* Late submissions: you may submit "late" up until Friday, 5/6, 2022 at {\bf 11:30 pm.} (Not 11:59, not midnight!) The penalty for a late submisssion is\ldots there is no penalty! **Note:** this is a hard deadline because we'll release solutions the next morning.
+
 ### Advanced Homework
 
 * **Instructions:**  Download the .tex file and add your answers to the questions in it. Put your answer right below each question. This time we've added a \solution{} LaTeX item where you can include your solution, if that helps. (If you don't use it, put the text **Solution** at the beginning of each answer.)
