@@ -13,8 +13,8 @@ title: CS4102 Algorithms - Spring 2022
    * Tue., May 10: 11:30 am - 1:30 pm
 
 * Prof. Hott, on [Zoom](https://virginia.zoom.us/my/jrhott) (for now)
-   * Mon. 3:00-5:00pm (4-5pm prioritizing 4102)
-   * Fri. 12:00-2:00pm (1-2pm prioritizing 4102)
+   * Fri., May 6: noon - 2:00 pm
+   * Mon., May 9: 11:00 am - noon
 
 ## TA Office Hours
 
