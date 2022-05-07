@@ -9,6 +9,10 @@ title: Schedule - CS4102 Algorithms - Spring 2022
 
 #### D_Basic: Reductions and NP-Complete
 
+### Solutions to Basic Homeworks
+
+* [Unit D Basic](../unitd/basic/cs4102_d-basic-solutions.pdf)
+
 * **Instructions:** The one and only basic homework for Unit D. Download the .tex file and add your answers to the questions in it. Put your answer right below each question. We've added a \solution{} LaTeX item where you can include your solution, if that helps. (If you don't use it, put the text **Solution** at the beginning of each answer.)
 * Download [this file](../unitd/basic/cs4102_d-basic.tex) and modify it.
 * Here's [the PDF](../unitd/basic/cs4102_d-basic.pdf) of this file (so you can look at the questions now if you wish).
